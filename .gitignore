@@ -60,3 +60,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Vlabs_DepthShader/Saved/Backup/
+Vlabs_DepthShader/Saved/Autosaves/
+Vlabs_DepthShader/Saved/AutoScreenshot.png
